@@ -1,7 +1,7 @@
 // src/Clock.js
 import React, { useEffect, useState } from 'react';
 import { Container } from 'react-bootstrap';
-import './Clock.css';
+import './clock.css';
 
 const Clock = () => {
   const [time, setTime] = useState(new Date());

@@ -171,7 +171,7 @@ export const PrayersProvider = ({ children }) => {
         setLanguage,
         language,
         prayers,
-        location,
+        
         methods,
         loading,
         newPrayer,
